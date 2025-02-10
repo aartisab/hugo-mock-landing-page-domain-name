@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on TaskFlow</title>
+    <link>https://aartisab.github.io/hugo-mock-landing-page/tags/</link>
+    <description>Recent content in Tags on TaskFlow</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Aarti Sabharwal &#39;27</copyright>
+    <lastBuildDate>Sun, 09 Feb 2025 20:36:22 -0500</lastBuildDate>
+    <atom:link href="https://aartisab.github.io/hugo-mock-landing-page/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goal-Setting</title>
+      <link>https://aartisab.github.io/hugo-mock-landing-page/tags/goal-setting/</link>
+      <pubDate>Sun, 09 Feb 2025 10:00:00 -0500</pubDate>
+      <guid>https://aartisab.github.io/hugo-mock-landing-page/tags/goal-setting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>https://aartisab.github.io/hugo-mock-landing-page/tags/productivity/</link>
+      <pubDate>Sun, 09 Feb 2025 10:00:00 -0500</pubDate>
+      <guid>https://aartisab.github.io/hugo-mock-landing-page/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Time Management</title>
+      <link>https://aartisab.github.io/hugo-mock-landing-page/tags/time-management/</link>
+      <pubDate>Sun, 09 Feb 2025 10:00:00 -0500</pubDate>
+      <guid>https://aartisab.github.io/hugo-mock-landing-page/tags/time-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Focus</title>
+      <link>https://aartisab.github.io/hugo-mock-landing-page/tags/focus/</link>
+      <pubDate>Sat, 08 Feb 2025 12:00:00 -0500</pubDate>
+      <guid>https://aartisab.github.io/hugo-mock-landing-page/tags/focus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Habits</title>
+      <link>https://aartisab.github.io/hugo-mock-landing-page/tags/habits/</link>
+      <pubDate>Sat, 08 Feb 2025 12:00:00 -0500</pubDate>
+      <guid>https://aartisab.github.io/hugo-mock-landing-page/tags/habits/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Improvement</title>
+      <link>https://aartisab.github.io/hugo-mock-landing-page/tags/self-improvement/</link>
+      <pubDate>Sat, 08 Feb 2025 12:00:00 -0500</pubDate>
+      <guid>https://aartisab.github.io/hugo-mock-landing-page/tags/self-improvement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Study Tips</title>
+      <link>https://aartisab.github.io/hugo-mock-landing-page/tags/study-tips/</link>
+      <pubDate>Sat, 08 Feb 2025 12:00:00 -0500</pubDate>
+      <guid>https://aartisab.github.io/hugo-mock-landing-page/tags/study-tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>https://aartisab.github.io/hugo-mock-landing-page/tags/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aartisab.github.io/hugo-mock-landing-page/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Featured</title>
+      <link>https://aartisab.github.io/hugo-mock-landing-page/tags/featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aartisab.github.io/hugo-mock-landing-page/tags/featured/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Index</title>
+      <link>https://aartisab.github.io/hugo-mock-landing-page/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aartisab.github.io/hugo-mock-landing-page/tags/index/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Motivation</title>
+      <link>https://aartisab.github.io/hugo-mock-landing-page/tags/motivation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aartisab.github.io/hugo-mock-landing-page/tags/motivation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>https://aartisab.github.io/hugo-mock-landing-page/tags/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aartisab.github.io/hugo-mock-landing-page/tags/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reminders</title>
+      <link>https://aartisab.github.io/hugo-mock-landing-page/tags/reminders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aartisab.github.io/hugo-mock-landing-page/tags/reminders/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Task Management</title>
+      <link>https://aartisab.github.io/hugo-mock-landing-page/tags/task-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aartisab.github.io/hugo-mock-landing-page/tags/task-management/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
