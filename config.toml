@@ -1,7 +1,7 @@
 baseURL = 'https://aartisab.github.io/hugo-mock-landing-page/'
 title = "TaskFlow"
 author = "Aarti Sabharwal"
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
+copyright = "Aarti Sabharwal '27"
 
 timeZone = 'Europe/London'
 
