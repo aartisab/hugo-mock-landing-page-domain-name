@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Motivation on TaskFlow</title>
-    <link>https://aartisab.github.io/hugo-mock-landing-page/tags/motivation/</link>
-    <description>Recent content in Motivation on TaskFlow</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Aarti Sabharwal &#39;27</copyright>
-    <atom:link href="https://aartisab.github.io/hugo-mock-landing-page/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Track Your Habits &amp; Stay Motivated 🔄</title>
-      <link>https://aartisab.github.io/hugo-mock-landing-page/page/featured-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aartisab.github.io/hugo-mock-landing-page/page/featured-5/</guid>
-      <description>&lt;h1 id=&#34;track-your-habits--stay-motivated-&#34;&gt;Track Your Habits &amp;amp; Stay Motivated 🔄&lt;/h1&gt;&#xA;&lt;p&gt;Good habits lead to long-term success, but building them consistently can be challenging. TaskFlow helps you &lt;strong&gt;track progress and stay motivated&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;-how-taskflow-helps-you-build-better-habits&#34;&gt;📊 &lt;strong&gt;How TaskFlow Helps You Build Better Habits&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automatically logs your daily habits&lt;/strong&gt; 📝&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sends motivational reminders to keep you engaged&lt;/strong&gt; 🔥&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Analyzes trends to show progress over time&lt;/strong&gt; 📈&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;-example-transforming-your-daily-routine&#34;&gt;✅ &lt;strong&gt;Example: Transforming Your Daily Routine&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Before TaskFlow:&lt;/strong&gt;&#xA;❌ &amp;ldquo;I keep skipping my morning workouts and losing motivation.&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Motivation on TaskFlow</title><link>https://aartisab.github.io/hugo-mock-landing-page-autodeployed/tags/motivation/</link><description>Recent content in Motivation on TaskFlow</description><generator>Hugo</generator><language>en</language><copyright>Aarti Sabharwal '27</copyright><atom:link href="https://aartisab.github.io/hugo-mock-landing-page-autodeployed/tags/motivation/index.xml" rel="self" type="application/rss+xml"/><item><title>Track Your Habits &amp; Stay Motivated 🔄</title><link>https://aartisab.github.io/hugo-mock-landing-page-autodeployed/page/featured-5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aartisab.github.io/hugo-mock-landing-page-autodeployed/page/featured-5/</guid><description>&lt;h1 id="track-your-habits--stay-motivated-">Track Your Habits &amp;amp; Stay Motivated 🔄&lt;/h1>
+&lt;p>Good habits lead to long-term success, but building them consistently can be challenging. TaskFlow helps you &lt;strong>track progress and stay motivated&lt;/strong>.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;h2 id="-how-taskflow-helps-you-build-better-habits">📊 &lt;strong>How TaskFlow Helps You Build Better Habits&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Automatically logs your daily habits&lt;/strong> 📝&lt;/li>
+&lt;li>&lt;strong>Sends motivational reminders to keep you engaged&lt;/strong> 🔥&lt;/li>
+&lt;li>&lt;strong>Analyzes trends to show progress over time&lt;/strong> 📈&lt;/li>
+&lt;/ul>
+&lt;!-- raw HTML omitted -->
+&lt;h2 id="-example-transforming-your-daily-routine">✅ &lt;strong>Example: Transforming Your Daily Routine&lt;/strong>&lt;/h2>
+&lt;p>&lt;strong>Before TaskFlow:&lt;/strong>
+❌ &amp;ldquo;I keep skipping my morning workouts and losing motivation.&amp;rdquo;&lt;/p></description></item></channel></rss>

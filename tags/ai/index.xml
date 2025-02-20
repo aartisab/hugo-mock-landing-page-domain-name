@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>AI on TaskFlow</title>
-    <link>https://aartisab.github.io/hugo-mock-landing-page/tags/ai/</link>
-    <description>Recent content in AI on TaskFlow</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Aarti Sabharwal &#39;27</copyright>
-    <atom:link href="https://aartisab.github.io/hugo-mock-landing-page/tags/ai/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Optimize Your Study Schedule with AI 📚</title>
-      <link>https://aartisab.github.io/hugo-mock-landing-page/page/featured-6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aartisab.github.io/hugo-mock-landing-page/page/featured-6/</guid>
-      <description>&lt;h1 id=&#34;optimize-your-study-schedule-with-ai-&#34;&gt;Optimize Your Study Schedule with AI 📚&lt;/h1&gt;&#xA;&lt;p&gt;Managing assignments, exams, and deadlines can be overwhelming. TaskFlow’s &lt;strong&gt;AI-driven scheduler&lt;/strong&gt; helps you stay productive without burnout.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;-how-taskflow-maximizes-your-study-sessions&#34;&gt;⚡ &lt;strong&gt;How TaskFlow Maximizes Your Study Sessions&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Analyzes your past productivity levels&lt;/strong&gt; 📊&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Suggests optimal study times and break periods&lt;/strong&gt; ⏳&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Balances workload to prevent last-minute cramming&lt;/strong&gt; 📅&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;-example-smarter-studying-with-ai&#34;&gt;✅ &lt;strong&gt;Example: Smarter Studying with AI&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Without TaskFlow:&lt;/strong&gt;&#xA;❌ &amp;ldquo;Spent too much time on one subject—didn&amp;rsquo;t finish my assignments.&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI on TaskFlow</title><link>https://aartisab.github.io/hugo-mock-landing-page-autodeployed/tags/ai/</link><description>Recent content in AI on TaskFlow</description><generator>Hugo</generator><language>en</language><copyright>Aarti Sabharwal '27</copyright><atom:link href="https://aartisab.github.io/hugo-mock-landing-page-autodeployed/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>Optimize Your Study Schedule with AI 📚</title><link>https://aartisab.github.io/hugo-mock-landing-page-autodeployed/page/featured-6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aartisab.github.io/hugo-mock-landing-page-autodeployed/page/featured-6/</guid><description>&lt;h1 id="optimize-your-study-schedule-with-ai-">Optimize Your Study Schedule with AI 📚&lt;/h1>
+&lt;p>Managing assignments, exams, and deadlines can be overwhelming. TaskFlow’s &lt;strong>AI-driven scheduler&lt;/strong> helps you stay productive without burnout.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;h2 id="-how-taskflow-maximizes-your-study-sessions">⚡ &lt;strong>How TaskFlow Maximizes Your Study Sessions&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Analyzes your past productivity levels&lt;/strong> 📊&lt;/li>
+&lt;li>&lt;strong>Suggests optimal study times and break periods&lt;/strong> ⏳&lt;/li>
+&lt;li>&lt;strong>Balances workload to prevent last-minute cramming&lt;/strong> 📅&lt;/li>
+&lt;/ul>
+&lt;!-- raw HTML omitted -->
+&lt;h2 id="-example-smarter-studying-with-ai">✅ &lt;strong>Example: Smarter Studying with AI&lt;/strong>&lt;/h2>
+&lt;p>&lt;strong>Without TaskFlow:&lt;/strong>
+❌ &amp;ldquo;Spent too much time on one subject—didn&amp;rsquo;t finish my assignments.&amp;rdquo;&lt;/p></description></item></channel></rss>

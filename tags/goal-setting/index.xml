@@ -1,20 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Goal-Setting on TaskFlow</title>
-    <link>https://aartisab.github.io/hugo-mock-landing-page/tags/goal-setting/</link>
-    <description>Recent content in Goal-Setting on TaskFlow</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Aarti Sabharwal &#39;27</copyright>
-    <lastBuildDate>Sun, 09 Feb 2025 20:36:22 -0500</lastBuildDate>
-    <atom:link href="https://aartisab.github.io/hugo-mock-landing-page/tags/goal-setting/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Mastering Goal-Setting with TaskFlow</title>
-      <link>https://aartisab.github.io/hugo-mock-landing-page/post/post-1/</link>
-      <pubDate>Sun, 09 Feb 2025 10:00:00 -0500</pubDate>
-      <guid>https://aartisab.github.io/hugo-mock-landing-page/post/post-1/</guid>
-      <description>&lt;h3 id=&#34;why-goal-setting-matters-&#34;&gt;Why Goal-Setting Matters 🎯&lt;/h3&gt;&#xA;&lt;p&gt;Setting goals helps you stay focused, track progress, and improve time management. But too often, we set vague goals without a clear plan.&lt;/p&gt;&#xA;&lt;h3 id=&#34;how-taskflow-helps-&#34;&gt;How TaskFlow Helps ✅&lt;/h3&gt;&#xA;&lt;p&gt;TaskFlow simplifies goal-setting by:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Breaking goals into smaller tasks&lt;/strong&gt; 📝&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Setting daily, weekly, and long-term targets&lt;/strong&gt; 📆&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sending reminders to keep you on track&lt;/strong&gt; ⏰&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;example-turning-big-goals-into-actionable-steps&#34;&gt;Example: Turning Big Goals into Actionable Steps&lt;/h3&gt;&#xA;&lt;p&gt;❌ &lt;em&gt;&amp;ldquo;I want to get better grades this semester.&amp;rdquo;&lt;/em&gt;&#xA;✅ &lt;em&gt;&amp;ldquo;I will study 2 hours daily, review notes weekly, and complete all assignments on time.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Goal-Setting on TaskFlow</title><link>https://aartisab.github.io/hugo-mock-landing-page-autodeployed/tags/goal-setting/</link><description>Recent content in Goal-Setting on TaskFlow</description><generator>Hugo</generator><language>en</language><copyright>Aarti Sabharwal '27</copyright><lastBuildDate>Thu, 20 Feb 2025 16:35:02 +0000</lastBuildDate><atom:link href="https://aartisab.github.io/hugo-mock-landing-page-autodeployed/tags/goal-setting/index.xml" rel="self" type="application/rss+xml"/><item><title>Mastering Goal-Setting with TaskFlow</title><link>https://aartisab.github.io/hugo-mock-landing-page-autodeployed/post/post-1/</link><pubDate>Sun, 09 Feb 2025 10:00:00 -0500</pubDate><guid>https://aartisab.github.io/hugo-mock-landing-page-autodeployed/post/post-1/</guid><description>&lt;h3 id="why-goal-setting-matters-">Why Goal-Setting Matters 🎯&lt;/h3>
+&lt;p>Setting goals helps you stay focused, track progress, and improve time management. But too often, we set vague goals without a clear plan.&lt;/p>
+&lt;h3 id="how-taskflow-helps-">How TaskFlow Helps ✅&lt;/h3>
+&lt;p>TaskFlow simplifies goal-setting by:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Breaking goals into smaller tasks&lt;/strong> 📝&lt;/li>
+&lt;li>&lt;strong>Setting daily, weekly, and long-term targets&lt;/strong> 📆&lt;/li>
+&lt;li>&lt;strong>Sending reminders to keep you on track&lt;/strong> ⏰&lt;/li>
+&lt;/ul>
+&lt;h3 id="example-turning-big-goals-into-actionable-steps">Example: Turning Big Goals into Actionable Steps&lt;/h3>
+&lt;p>❌ &lt;em>&amp;ldquo;I want to get better grades this semester.&amp;rdquo;&lt;/em>
+✅ &lt;em>&amp;ldquo;I will study 2 hours daily, review notes weekly, and complete all assignments on time.&amp;rdquo;&lt;/em>&lt;/p></description></item></channel></rss>

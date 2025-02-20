@@ -1,20 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Focus on TaskFlow</title>
-    <link>https://aartisab.github.io/hugo-mock-landing-page/tags/focus/</link>
-    <description>Recent content in Focus on TaskFlow</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Aarti Sabharwal &#39;27</copyright>
-    <lastBuildDate>Sun, 09 Feb 2025 20:36:22 -0500</lastBuildDate>
-    <atom:link href="https://aartisab.github.io/hugo-mock-landing-page/tags/focus/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Science of Smart Breaks &amp; Focus</title>
-      <link>https://aartisab.github.io/hugo-mock-landing-page/post/post-3/</link>
-      <pubDate>Sat, 08 Feb 2025 12:00:00 -0500</pubDate>
-      <guid>https://aartisab.github.io/hugo-mock-landing-page/post/post-3/</guid>
-      <description>&lt;h3 id=&#34;why-taking-breaks-improves-focus-&#34;&gt;Why Taking Breaks Improves Focus 🧠&lt;/h3&gt;&#xA;&lt;p&gt;Studies show that working non-stop leads to burnout and reduced efficiency. Strategic breaks &lt;strong&gt;boost concentration, creativity, and memory retention&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;how-taskflow-optimizes-your-study-schedule-&#34;&gt;How TaskFlow Optimizes Your Study Schedule ⏳&lt;/h3&gt;&#xA;&lt;p&gt;TaskFlow:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Analyzes your past productivity trends&lt;/strong&gt; 📈&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Suggests the best times for work and breaks&lt;/strong&gt; 🔄&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Helps you stay energized and avoid burnout&lt;/strong&gt; 💡&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;example-the-5010-focus-rule&#34;&gt;Example: The 50/10 Focus Rule&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Work for 50 minutes&lt;/strong&gt; ⏳ → &lt;strong&gt;Take a 10-minute break&lt;/strong&gt; ☕ → &lt;strong&gt;Repeat&lt;/strong&gt; 🔄&#xA;This cycle keeps you &lt;strong&gt;refreshed and focused&lt;/strong&gt; for longer.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Focus on TaskFlow</title><link>https://aartisab.github.io/hugo-mock-landing-page-autodeployed/tags/focus/</link><description>Recent content in Focus on TaskFlow</description><generator>Hugo</generator><language>en</language><copyright>Aarti Sabharwal '27</copyright><lastBuildDate>Thu, 20 Feb 2025 16:35:02 +0000</lastBuildDate><atom:link href="https://aartisab.github.io/hugo-mock-landing-page-autodeployed/tags/focus/index.xml" rel="self" type="application/rss+xml"/><item><title>The Science of Smart Breaks &amp; Focus</title><link>https://aartisab.github.io/hugo-mock-landing-page-autodeployed/post/post-3/</link><pubDate>Sat, 08 Feb 2025 12:00:00 -0500</pubDate><guid>https://aartisab.github.io/hugo-mock-landing-page-autodeployed/post/post-3/</guid><description>&lt;h3 id="why-taking-breaks-improves-focus-">Why Taking Breaks Improves Focus 🧠&lt;/h3>
+&lt;p>Studies show that working non-stop leads to burnout and reduced efficiency. Strategic breaks &lt;strong>boost concentration, creativity, and memory retention&lt;/strong>.&lt;/p>
+&lt;h3 id="how-taskflow-optimizes-your-study-schedule-">How TaskFlow Optimizes Your Study Schedule ⏳&lt;/h3>
+&lt;p>TaskFlow:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Analyzes your past productivity trends&lt;/strong> 📈&lt;/li>
+&lt;li>&lt;strong>Suggests the best times for work and breaks&lt;/strong> 🔄&lt;/li>
+&lt;li>&lt;strong>Helps you stay energized and avoid burnout&lt;/strong> 💡&lt;/li>
+&lt;/ul>
+&lt;h3 id="example-the-5010-focus-rule">Example: The 50/10 Focus Rule&lt;/h3>
+&lt;p>&lt;strong>Work for 50 minutes&lt;/strong> ⏳ → &lt;strong>Take a 10-minute break&lt;/strong> ☕ → &lt;strong>Repeat&lt;/strong> 🔄
+This cycle keeps you &lt;strong>refreshed and focused&lt;/strong> for longer.&lt;/p></description></item></channel></rss>

@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Task Management on TaskFlow</title>
-    <link>https://aartisab.github.io/hugo-mock-landing-page/tags/task-management/</link>
-    <description>Recent content in Task Management on TaskFlow</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Aarti Sabharwal &#39;27</copyright>
-    <atom:link href="https://aartisab.github.io/hugo-mock-landing-page/tags/task-management/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Smart Task Reminders &amp; Deadline Management ⏰</title>
-      <link>https://aartisab.github.io/hugo-mock-landing-page/page/featured-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aartisab.github.io/hugo-mock-landing-page/page/featured-4/</guid>
-      <description>&lt;h1 id=&#34;smart-task-reminders--deadline-management-&#34;&gt;Smart Task Reminders &amp;amp; Deadline Management ⏰&lt;/h1&gt;&#xA;&lt;p&gt;Missing deadlines or forgetting tasks can be stressful. TaskFlow ensures you &lt;strong&gt;stay on top of your responsibilities&lt;/strong&gt; by providing &lt;strong&gt;smart reminders&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;-how-taskflow-keeps-you-organized&#34;&gt;🔔 &lt;strong&gt;How TaskFlow Keeps You Organized&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sends notifications for upcoming tasks&lt;/strong&gt; 📅&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automatically prioritizes urgent deadlines&lt;/strong&gt; ⚡&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Syncs with your calendar for better scheduling&lt;/strong&gt; 🗓&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;-example-never-missing-an-assignment&#34;&gt;✅ &lt;strong&gt;Example: Never Missing an Assignment&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Without TaskFlow:&lt;/strong&gt;&#xA;❌ &amp;ldquo;I forgot to submit my homework because I got distracted.&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Task Management on TaskFlow</title><link>https://aartisab.github.io/hugo-mock-landing-page-autodeployed/tags/task-management/</link><description>Recent content in Task Management on TaskFlow</description><generator>Hugo</generator><language>en</language><copyright>Aarti Sabharwal '27</copyright><atom:link href="https://aartisab.github.io/hugo-mock-landing-page-autodeployed/tags/task-management/index.xml" rel="self" type="application/rss+xml"/><item><title>Smart Task Reminders &amp; Deadline Management ⏰</title><link>https://aartisab.github.io/hugo-mock-landing-page-autodeployed/page/featured-4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aartisab.github.io/hugo-mock-landing-page-autodeployed/page/featured-4/</guid><description>&lt;h1 id="smart-task-reminders--deadline-management-">Smart Task Reminders &amp;amp; Deadline Management ⏰&lt;/h1>
+&lt;p>Missing deadlines or forgetting tasks can be stressful. TaskFlow ensures you &lt;strong>stay on top of your responsibilities&lt;/strong> by providing &lt;strong>smart reminders&lt;/strong>.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;h2 id="-how-taskflow-keeps-you-organized">🔔 &lt;strong>How TaskFlow Keeps You Organized&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Sends notifications for upcoming tasks&lt;/strong> 📅&lt;/li>
+&lt;li>&lt;strong>Automatically prioritizes urgent deadlines&lt;/strong> ⚡&lt;/li>
+&lt;li>&lt;strong>Syncs with your calendar for better scheduling&lt;/strong> 🗓&lt;/li>
+&lt;/ul>
+&lt;!-- raw HTML omitted -->
+&lt;h2 id="-example-never-missing-an-assignment">✅ &lt;strong>Example: Never Missing an Assignment&lt;/strong>&lt;/h2>
+&lt;p>&lt;strong>Without TaskFlow:&lt;/strong>
+❌ &amp;ldquo;I forgot to submit my homework because I got distracted.&amp;rdquo;&lt;/p></description></item></channel></rss>
