@@ -1,4 +1,4 @@
-baseURL = 'https://aartisab.github.io/hugo-mock-landing-page/'
+baseURL = 'https://aartisab.github.io/hugo-mock-landing-page-autodeployed/'
 title = "TaskFlow"
 author = "Aarti Sabharwal"
 copyright = "Aarti Sabharwal '27"
