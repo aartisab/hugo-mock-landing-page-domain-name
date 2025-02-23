@@ -2,7 +2,7 @@
 
 CIS 3500 HW1 - Creating a Landing Page in Hugo
 
-TaskFlow is a Hugo-based static website designed to help students and users optimize their productivity through AI-powered scheduling, habit tracking, and smart reminders. This project uses the Hugo Boostrap Theme by @[filipecarneiro](https://github.com/filipecarneiro).
+TaskFlow is a Hugo-based static website designed to help students and users optimize their productivity through AI-powered scheduling, habit tracking, and smart reminders. This project uses the Hugo Boostrap Theme by @[filipecarneiro](https://github.com/filipecarneiro).  Within this repository, a GitHub Actions workflow is included so that whenever a push occurs, the website is built and republished.
 
 ## Features
 
