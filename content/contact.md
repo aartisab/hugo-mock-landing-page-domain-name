@@ -12,3 +12,5 @@ We’d love to hear from you! Whether you have a question, need support, or just
 **Email:** [aartisab@seas.upenn.edu](mailto:aartisab@seas.upenn.edu)
 
 **Phone:** [202-420-1154](tel:2024201154)
+
+[Open an issue](https://github.com/aartisab/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
